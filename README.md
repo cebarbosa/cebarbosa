@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Carlos👋
+
+I am Carlos, a data scientist at Global Hitss in São Paulo, where I develop data analysis and machine learning models to support strategic business decisions and to optimize internal processes using big data.
+
+I am also a professional astronomer who formely worked in scientific research for ten years (including a master's degree, a PhD and post-docs) where I studied the structure of galaxies from observational data, with the goal of understanding how they formed and evolved over time.
 
 <!--
 **cebarbosa/cebarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
